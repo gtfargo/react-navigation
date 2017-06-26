@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/node_modules/react-native/Libraries/Text/RCTTextFieldManager.m \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/node_modules/react-native/Libraries/Text/RCTTextFieldManager.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/node_modules/react-native/Libraries/Text/RCTConvert+Text.h \
+  /Users/gtfargo/src/opensource/react-navigation/examples/NavigationPlayground/node_modules/react-native/Libraries/Text/RCTTextField.h
